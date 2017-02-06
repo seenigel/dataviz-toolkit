@@ -1,4 +1,4 @@
-# Dataviz in the field
+# Dataviz Toolkit
 Five free tools journalists can use to create engaging data visualizations that wow readers and impress professors.
 
 ## Who am I?
@@ -22,7 +22,6 @@ A lot of those projects require knowledge of HTML, CSS, and Javasript, the codin
 - [JuxtaposeJS](https://juxtapose.knightlab.com/) (For before-and-after image comparison sliders)
 - [TimelineJS](http://timeline.knightlab.com/) (For Timelines)
 - [StorymapJS](https://storymap.knightlab.com/) (For Timeline map hybrids)
-- [Carto](https://carto.com/) (**Advanced**: For maps)
 
 # Datawrapper and Infogram
 ![Datawrapper Screenshot](images/datawrapper.png)
@@ -50,4 +49,18 @@ This tool creates timelines that use user can step through. You can include phot
 [Example](https://www.dnainfo.com/new-york/20160919/chelsea/timeline-how-ahman-khan-rahami-was-found)
 This free tool is like the Timeline, but it's placed on a map, so you can use it to tell seqential stories based around locations.
 
-# Carto
+# Bonus: Carto
+![Carto Screenshot](images/carto.png)
+Carto is a free tool that you can use to take data that has geographical use and put it on a map.
+
+# Bonus Advice
+- Follow other data journalists and see what they're doing?
+- If you're really interested in this, check out the [Investigative Reporters & Editors](http://ire.org/) Journalism group. They hold a big data journalism conference called NICAR every year. And even if you can't afford to travel (I understand, I was in college once!), they've got an email list where some of the smartest data journalists in the country talk about problems they're having and new tools they've come across. 
+- Check out [Chrys Wu's NICAR links list](http://blog.chryswu.com/2016/03/08/nicar16-slides-links-tutorials-resources/)
+- Check out Hacks & Hackers. It's a meetup group of journalists who are in interested in data vizualization and code.
+- Don't be afraid to experiment and screw up! Digital journalism is still in its infancy. We're still learning, and there's room for you to grow in the field.
+
+Good luck!
+Contact Info:
+Email: nchiwaya@gmail.com
+Twitter: @seenigel
